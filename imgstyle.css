@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://c.ndtvimg.com/2025-05/k8o5nsl8_virat-kohli-bcci_625x300_12_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738);
+    animation:scrolling linear 10s infinite;
+}
+@keyframes scrolling{
+    20%
+    {
+      background-image:url(https://tse1.mm.bing.net/th/id/OIP.nrDWhqSEC80-_XjGhrrvxAHaEK?w=1024&h=576&rs=1&pid=ImgDetMain);
+    }
+    40%
+    {
+      background-image:url(https://www.icecric.news/wp-content/uploads/2023/03/Virat-Kohli.webp);   
+    }
+    60%
+    {
+      background-image:url(https://cdn.benzinga.com/files/images/story/2023/virat-kohli-whoop.jpeg?width=1200&height=800&fit=crop); 
+    }
+    80%
+    {
+      background-image:url(https://tse3.mm.bing.net/th/id/OIP.y8vVTlV3OfdeRDKpT2lyBAHaEc?w=800&h=480&rs=1&pid=ImgDetMain);
+    }
+}
